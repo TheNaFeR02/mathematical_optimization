@@ -22,3 +22,7 @@ Roadmap of my optimization course, links all the different projects about this t
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 ## Taylor polynomials and convex sets/functions.
+
+### Taylor one dimensional problems.
+### Taylor in multiple variables and efficient representation of Gradients and Hessians.
+### Optimality conditions in multiple variables.
