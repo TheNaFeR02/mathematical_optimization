@@ -11,11 +11,14 @@ Roadmap of my optimization course, links all the different projects about this t
 - Lest square problems I 
 # Table of Contents
 
-- [Taylor polynomials and convex convex sets-functions](#taylor-polynomials-and-convex-sets-functions)
+- [Taylor polynomials and convex convex sets-functions](#taylor-polynomials-and-convex-sets-functions)   
+  - [Taylor one dimensional problems](#taylor-one-dimensional-problems)
+  - [Taylor in multiple variables and efficient representation of Gradients and Hessians](#taylor-in-multiple-variables-and-efficient-representation-of-Gradients-and-Hessians)
+  - [Optimality conditions in multiple variables](#optimality-conditions-in-multiple-variables)
 - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-
-## Example
-## Example2
 ## Taylor polynomials and convex sets-functions
+### Taylor one dimensional problems
+### Taylor in multiple variables and efficient representation of Gradients and Hessians
+### Optimality conditions in multiple variables
 ## [Fourth Example](http://www.fourthexample.com) 
