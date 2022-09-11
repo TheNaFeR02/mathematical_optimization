@@ -10,13 +10,13 @@ Roadmap of my optimization course, links all the different projects about this t
 - Closed form expression for quadratic optimization problems.
 - Lest square problems I 
 # Table of Contents
-1. <project URL#<taylor polynomials and convex sets/functions.>
+1. [Example](#example)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
-## Taylor polynomials and convex sets/functions.
+## Example
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
