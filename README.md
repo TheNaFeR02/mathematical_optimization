@@ -9,15 +9,14 @@ Roadmap of my optimization course, links all the different projects about this t
 
 - Closed form expression for quadratic optimization problems.
 - Lest square problems I 
-
-##### Table of Contents
-
-
-
+# Table of Contents
+1. [Taylor polynomials and convex sets/functions.](#Taylor%20polynomials%20and%20convex%20sets/functions.)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 ## Taylor polynomials and convex sets/functions.
-
-### Taylor one dimensional problems.
-### Taylor in multiple variables and efficient representation of Gradients and Hessians.
-### Optimality conditions in multiple variables.
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
