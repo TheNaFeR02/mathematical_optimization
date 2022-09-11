@@ -19,3 +19,7 @@ Roadmap of my optimization course, links all the different projects about this t
 - [Heading](#heading-2)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
+
+# Table of contents
+
+## Taylor polynomials and convex sets/functions.
