@@ -12,11 +12,11 @@ Roadmap of my optimization course, links all the different projects about this t
 # Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)
-3. [Taylor Example](#taylor-example)
+3. [Taylor polynomials](#taylor-polynomials)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 ## Example
 ## Example2
-## Taylor Example
+## Taylor polynomials
 ## [Fourth Example](http://www.fourthexample.com) 
