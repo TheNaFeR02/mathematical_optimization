@@ -10,18 +10,9 @@ Roadmap of my optimization course, links all the different projects about this t
 - Closed form expression for quadratic optimization problems.
 - Lest square problems I 
 
-# Table of contents
+##### Table of Contents
 
-- [Taylor polynomials and convex sets/functions.](#Taylor%20polynomials%20and%20convex%20setsfunctions.)
-  * [Taylor one dimensional problems.](#sub-heading)
-  * [Taylor in multiple variables and efficient representation of Gradients and Hessians.](#sub-heading)  
-  * [Optimality conditions in multiple variables.](#sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+
 
 
 
