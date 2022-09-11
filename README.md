@@ -20,4 +20,4 @@ Roadmap of my optimization course, links all the different projects about this t
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
-## Taylor polynomials and convex sets/functions.
+# Taylor polynomials and convex sets/functions.
