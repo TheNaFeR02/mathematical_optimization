@@ -12,7 +12,7 @@ Roadmap of my optimization course, links all the different projects about this t
 
 # Table of contents
 
-- [Taylor polynomials and convex sets/functions.](#heading)
+- [Taylor polynomials and convex sets/functions.](#Taylor%20polynomials%20and%20convex%20sets/functions.)
   * [Taylor one dimensional problems.](#sub-heading)
   * [Taylor in multiple variables and efficient representation of Gradients and Hessians.](#sub-heading)  
   * [Optimality conditions in multiple variables.](#sub-heading)
