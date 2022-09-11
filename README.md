@@ -9,4 +9,3 @@ Roadmap of my optimization course, links all the different projects about this t
 
 - Closed form expression for quadratic optimization problems.
 - Lest square problems I 
-  -
