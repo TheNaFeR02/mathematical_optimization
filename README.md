@@ -12,11 +12,11 @@ Roadmap of my optimization course, links all the different projects about this t
 # Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)
-3. [Taylor polynomials and convex](#taylor-polynomials-and-convex)
+3. [Taylor polynomials and convex setsfunctions.](#taylor-polynomials-and-convex-setsfunctions.)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 ## Example
 ## Example2
-## Taylor polynomials and convex
+## Taylor polynomials and convex setsfunctions.
 ## [Fourth Example](http://www.fourthexample.com) 
