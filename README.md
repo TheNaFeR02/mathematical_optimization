@@ -9,3 +9,14 @@ Roadmap of my optimization course, links all the different projects about this t
 
 - Closed form expression for quadratic optimization problems.
 - Lest square problems I 
+
+
+- [Heading](#Taylor polynomials and convex sets/functions.)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
