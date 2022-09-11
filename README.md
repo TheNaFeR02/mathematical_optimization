@@ -11,8 +11,9 @@ Roadmap of my optimization course, links all the different projects about this t
 - Lest square problems I 
 
 - [Taylor polynomials and convex sets/functions.](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+  * [Taylor one dimensional problems.](#sub-heading)
+  * [Taylor in multiple variables and efficient representation of Gradients and Hessians.](#sub-heading)  
+  * [Optimality conditions in multiple variables.](#sub-heading)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
