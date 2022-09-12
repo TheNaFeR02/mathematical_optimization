@@ -1,4 +1,4 @@
-# mathematical_optimization
+# optimization
 Roadmap of my optimization course, links all the different projects about this topic, jupyter notebooks and all the different technologies used in the course. 
 
 
