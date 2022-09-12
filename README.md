@@ -1,5 +1,5 @@
 # mathematical_optimization
-Roadmap of my optimization course, links all the different projects about this topic, includes jupyter notebooks and all the different technologies (programming languages,libraries,...,) used in the course. 
+Roadmap of my optimization course, links all the different projects about this topic, jupyter notebooks and all the different technologies used in the course. 
 
 
 # Table of Contents
